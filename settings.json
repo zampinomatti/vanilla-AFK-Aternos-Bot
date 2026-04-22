@@ -27,15 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false
-      "repeat": true,
-      "repeat-delay":,
-      "messages": [
-        "",
-        "",
-        ""
-      ]
-    },
+  "enabled": false,
+  "repeat": true,
+  "repeat-delay": 120,
+  "messages": ["", "", ""]
+},
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
