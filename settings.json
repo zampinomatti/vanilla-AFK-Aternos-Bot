@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "24/7 aternos bot",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
     "ip": "kimjong-goon.aternos.me",
     "port": 63214,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": true
   },
   "position": {
